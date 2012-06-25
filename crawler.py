@@ -1,5 +1,7 @@
+#!/usr/bin/env python3
+
 #
-# Pull down a selection of random tweets and store them in a Redis DB
+# Pull down a selection of random tweets and store them locally
 #
 
 import urllib.request, json, os, sys
